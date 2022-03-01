@@ -32,3 +32,5 @@ This project used the following libraries:
 
 The jupyter notebook should run without problem under Python 3.6.3.
 
+## Blog article
+I wrote a blog article to summarize the main findings. The link is here: https://joyybai.medium.com/what-offers-attract-starbucks-customers-the-most-782689dcd260.
